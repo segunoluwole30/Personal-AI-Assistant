@@ -36,6 +36,8 @@ python -m venv .venv
 pip install -r HW3_final_submission/requirements.txt
 python -m playwright install chromium
 ```
+Configure MCP Server in Zapier and retrieve Authorization Token <br>
+Register with Firecrawl and retrieve Authorization Token 
 
 Create `.env` (do NOT commit real secrets):
 ```
